@@ -2,7 +2,6 @@ package com.example.demogra.service;
 
 
 import com.example.demogra.entity.Client;
-import org.springframework.stereotype.Service;
 
 import java.util.List;
 
